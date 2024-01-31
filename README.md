@@ -1,0 +1,1 @@
+# pancakeswap-v2-trading-pairs
